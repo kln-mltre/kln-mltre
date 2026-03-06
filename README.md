@@ -6,4 +6,4 @@ I build tools that I actually need and use. Being my own user makes me meticulou
 * **Self-Solver**: I develop solutions for my own daily challenges.
 * **Quality & Design**: I care as much about the code logic as I do about the visual result.
 
-Contact: [Email](kylian.malartre@gmail.com) | [Portfolio](https://kylianmalartre.com)
+Contact: [Email](mailto:kylian.malartre@gmail.com) | [Portfolio](https://kylianmalartre.com)
