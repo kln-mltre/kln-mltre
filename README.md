@@ -1,4 +1,3 @@
-# Kylian Malartre
 Computer science student at the University of Bordeaux.
 
 I build tools that I actually need and use. Being my own user makes me meticulous about the details, ensuring the logic is solid and the design is polished. I just like things to be functional and look right.
